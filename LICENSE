@@ -1,0 +1,54 @@
+tyga.run CLI - End User License Agreement
+
+Copyright (c) 2026 Tyga.Cloud Ltd. All rights reserved.
+
+COMMERCIAL LICENSE — NOT OPEN SOURCE
+
+Permission is granted to install and use this software via npm for its
+intended purpose (interacting with the tyga.run platform at tyga.run and
+sdk.tyga.run).
+
+You may NOT:
+- Reverse-engineer, decompile, deobfuscate, or disassemble this software
+- Redistribute, sublicense, or resell this software
+- Modify or create derivative works based on this software
+- Remove or alter any copyright notices contained in this software
+- Use this software to build a competing platform or service
+- Use this software outside of its intended purpose (tyga.run SDK access)
+
+LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+TYGA.CLOUD LTD, ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, OR
+AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR
+LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING
+OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THIS SOFTWARE,
+REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, STRICT LIABILITY, OR
+OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE TOTAL AGGREGATE LIABILITY OF TYGA.CLOUD LTD FOR ALL CLAIMS ARISING
+FROM OR RELATED TO THIS SOFTWARE SHALL NOT EXCEED ONE POUND STERLING
+(£1.00).
+
+YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS TYGA.CLOUD LTD, ITS
+DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM AND AGAINST ANY AND ALL
+CLAIMS, LIABILITIES, DAMAGES, LOSSES, COSTS, AND EXPENSES (INCLUDING
+REASONABLE ATTORNEYS' FEES) ARISING OUT OF OR RELATED TO:
+(A) YOUR USE OR MISUSE OF THIS SOFTWARE;
+(B) YOUR VIOLATION OF THIS AGREEMENT;
+(C) YOUR VIOLATION OF ANY APPLICABLE LAW OR REGULATION;
+(D) ANY DATA OR CONTENT YOU TRANSMIT THROUGH THE SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the
+laws of England and Wales. Any dispute arising under this Agreement shall
+be subject to the exclusive jurisdiction of the courts of England and Wales.
+
+Full terms of service: https://tyga.run/terms
+Contact: legal@tyga.cloud

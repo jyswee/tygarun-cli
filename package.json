@@ -1,0 +1,43 @@
+{
+  "name": "tygarun",
+  "version": "1.0.0",
+  "description": "tyga.run CLI — SaaS infrastructure for coding agents. 48 modules, 4,600+ endpoints. Users, billing, scheduling, support, CRM, compliance. Zero dependencies.",
+  "bin": {
+    "tyr": "bin/cli.js"
+  },
+  "author": "Joe Wee <joe@tyga.cloud>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://tyga.run",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyga-cloud/tygarun-cli"
+  },
+  "keywords": [
+    "tygarun",
+    "tyga",
+    "saas",
+    "saas-platform",
+    "agent",
+    "ai-agent",
+    "coding-agent",
+    "cli",
+    "mcp",
+    "mcp-server",
+    "billing",
+    "scheduling",
+    "crm",
+    "support",
+    "ecommerce",
+    "compliance",
+    "iso27001",
+    "cursor",
+    "cline",
+    "windsurf",
+    "aider",
+    "codex",
+    "zero-dependencies"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

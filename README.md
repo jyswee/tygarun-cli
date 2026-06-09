@@ -128,7 +128,7 @@ Built with Node.js built-in modules only. No `axios`, no `commander`, no `chalk`
 ## Documentation
 
 - [tyga.run](https://tyga.run) — Platform
-- [SDK Docs](https://sdk.tyga.run/docs) — Interactive API docs (48 modules)
+- [Documentation](https://tyga.run) — Platform docs
 - [llms.txt](https://tyga.run/llms.txt) — Machine-readable API reference
 
 ## License

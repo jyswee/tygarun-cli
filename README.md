@@ -125,16 +125,6 @@ Every CLI call includes `X-Tyr-Module` and `X-Tyr-Command` headers for per-modul
 
 Built with Node.js built-in modules only. No `axios`, no `commander`, no `chalk`. One `npm install`, works everywhere.
 
-## Part of the Tyga Ecosystem
-
-| CLI | Package | What it does |
-|-----|---------|--------------|
-| `tyr` | `tygarun` | SaaS infrastructure (this package) |
-| `bgz` | `buggazi` | Bug tracking & feature planning |
-| `sc` | `secretcarousel` | Secrets vault |
-| `tyn` | `tyganetwork` | Infrastructure management |
-| `a2a` | `a2ainfrastructure` | AI safety firewall |
-
 ## Documentation
 
 - [tyga.run](https://tyga.run) — Platform
